@@ -17,21 +17,33 @@ Soccorso, prode duca, o la battaglia è perduta!
 (allarme; entra il re Riccardo)
 
 RICCARDO 
+Alarum: escursioni. Entrano in Norfolk e le forze combattono; a lui CATESBY
 
-Un cavallo, un cavallo! il mio regno per un cavallo!
+CATESBY
 
-CATESBY 
+     Salva, mio signore di Norfolk, salva, salva!
+     Il re compie più meraviglie di un uomo,
+     Osare l'opposto di ogni pericolo:
+     Il suo cavallo è ucciso, e tutto a piedi combatte,
+     Alla ricerca di Richmond in gola alla morte.
+     Salva, bel signore, o il giorno è perduto!
 
-Ritiratevi, milord, e vi aiuterò a trovarne uno.
+     Allarmi. Entra RE RICCARDO III
 
-RICCARDO 
+RE RICCARDO III
 
-Vile; ho giuocata la mia vita sopra un colpo di dadi, e affronterò tutte le vicissitudini della sorte. 
+     Un cavallo! un cavallo! il mio regno per un cavallo!
 
-Credo vi fossero sei Richemond nel campo; 
+CATESBY
 
-cinque ne ho già uccisi, e uno ancora ne rimane. 
+     Ritirati, mio signore; Ti aiuterò a un cavallo.
 
-Un cavallo, un cavallo! il mio regno per un cavallo!
+RE RICCARDO III
 
-(escono)
+     Schiavo, ho posto la mia vita su un calco,
+     E sopporterò il rischio del dado: [giusta]
+     Penso che ci siano sei Richmond in campo;
+     Oggi ne ho uccisi cinque al posto di lui.
+     Un cavallo! un cavallo! il mio regno per un cavallo!
+
+     Esce
