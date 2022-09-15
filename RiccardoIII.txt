@@ -1,37 +1,93 @@
-Allarme ed escursioni; entrano Norfolk e l’esercito: Catesby gli va incontro.
+Allarmi. Scorrerie di soldati. Entra NORFOLK con soldati, combattendo.
+
+Gli viene incontro di corsa CATESBY
 
 CATESBY 
+	
 
-Alla riscossa, milord di Norfolk, alla riscossa! [giusta]
+Correte, aiuto, signor di Norfolk!
 
+Il re compie prodigi sovrumani
 
-Il re fa prodigi di valore superiori alle forze di un uomo. 
+di valore, incurante d’ogni rischio.
 
-Intrepido disprezza tutti i pericoli! 
-Il suo cavallo è ucciso, ed ei combatte a piedi 
+Gli hanno ucciso il cavallo,
 
-cercando Richemond nel seno della morte. 
+e lui, a piedi, seguita a combattere;
 
-Soccorso, prode duca, o la battaglia è perduta! 
+e nell’ansia di battersi con Richmond
 
-(allarme; entra il re Riccardo)
+si caccia nelle fauci della morte.
+
+Soccorretelo, nobile signore,
+
+o la giornata per noi è perduta. [giusta]
+
+(Escono Norfolk e soldati)
+
+Entra RE RICCARDO
 
 RICCARDO 
+	
 
-Un cavallo, un cavallo! il mio regno per un cavallo!
+Un cavallo! Un cavallo!
+
+Il mio regno per un cavallo!
 
 CATESBY 
+	
 
-Ritiratevi, milord, e vi aiuterò a trovarne uno.
+Sire,
+
+ritiratevi! Cerco io un cavallo
+
+per vostra altezza.
 
 RICCARDO 
+	
 
-Vile; ho giuocata la mia vita sopra un colpo di dadi, e affronterò tutte le vicissitudini della sorte. 
+Ho messo la mia vita come posta
 
-Credo vi fossero sei Richemond nel campo; 
+per un colpo di dadi, e starò al gioco.
 
-cinque ne ho già uccisi, e uno ancora ne rimane. 
+Credo ci siano sei Richmond sul campo;
 
-Un cavallo, un cavallo! il mio regno per un cavallo!
+cinque ne ho fatti fuori, quello no!
 
-(escono)
+Un cavallo! Un cavallo!
+
+Il mio regno per un cavallo!
+
+(Escono tutti)
+riccardoSource.txt
+Visualizzazione di riccardoWilliam.txt.
+Git. Facciamoci in tre
+Paolo Benoli
+•
+09:00
+100 punti
+Consegna: 20 set, 23:59
+Create una nuova replit chiamandola RiccardoVostroCognome
+Create un file di nome RiccardoIII.txt
+Copiate nel file RiccardoIII.txt uno dei file allegati
+Create una nuova repo su GitHub.
+Create (partendo sempre da main) tre nuove branchie ("uno","due","tre")
+in ogni branchia copiate (cancellando quello che già c'è) in RiccardoIII.txt il contenuto di uno diverso dei file allegati (non quello che avete copiato in main)
+Fondete le tre branchie in main.
+Ogni file ha una frase seguita da [giusta]. Queste quattro frasi dovranno apparire nella versione definitiva (cioè in main).
+
+Risolvete i conflitti in modo che il risultato abbia un senso (cioè senza perdere frasi né avere frasi "doppie" (diverse ma che dicono le stesse cose))
+La consegna è il link alla vostra replit (che ovviamente condividete con paolo.benoli@isitgo.it e sara.scarazzolo@isitgo.it)
+
+riccardoCopioni.txt
+Testo
+
+riccardoGoogle.txt
+Testo
+
+riccardoSource.txt
+Testo
+
+riccardoWilliam.txt
+Testo
+Commenti sul corso
