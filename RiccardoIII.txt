@@ -28,66 +28,36 @@ o la giornata per noi è perduta. [giusta]
 Entra RE RICCARDO
 
 RICCARDO 
+
+Alarum: escursioni. Entrano in Norfolk e le forze combattono; a lui CATESBY
+
+CATESBY
+
+     Salva, mio signore di Norfolk, salva, salva!
+     Il re compie più meraviglie di un uomo,
+     Osare l'opposto di ogni pericolo:
+     Il suo cavallo è ucciso, e tutto a piedi combatte,
+     Alla ricerca di Richmond in gola alla morte.
+     Salva, bel signore, o il giorno è perduto!
+
+     Allarmi. Entra RE RICCARDO III
+
+RE RICCARDO III
+
+     Un cavallo! un cavallo! il mio regno per un cavallo!
+
+CATESBY
+
+     Ritirati, mio signore; Ti aiuterò a un cavallo.
+
+RE RICCARDO III
+
+     Schiavo, ho posto la mia vita su un calco,
+     E sopporterò il rischio del dado: [giusta]
+     Penso che ci siano sei Richmond in campo;
+     Oggi ne ho uccisi cinque al posto di lui.
+     Un cavallo! un cavallo! il mio regno per un cavallo!
+
+     Esce
+
 	
-
-Un cavallo! Un cavallo!
-
-Il mio regno per un cavallo!
-
-CATESBY 
-	
-
-Sire,
-
-ritiratevi! Cerco io un cavallo
-
-per vostra altezza.
-
-RICCARDO 
-	
-
-Ho messo la mia vita come posta
-
-per un colpo di dadi, e starò al gioco.
-
-Credo ci siano sei Richmond sul campo;
-
-cinque ne ho fatti fuori, quello no!
-
-Un cavallo! Un cavallo!
-
-Il mio regno per un cavallo!
-
-(Escono tutti)
-riccardoSource.txt
-Visualizzazione di riccardoWilliam.txt.
-Git. Facciamoci in tre
-Paolo Benoli
-•
-09:00
-100 punti
-Consegna: 20 set, 23:59
-Create una nuova replit chiamandola RiccardoVostroCognome
-Create un file di nome RiccardoIII.txt
-Copiate nel file RiccardoIII.txt uno dei file allegati
-Create una nuova repo su GitHub.
-Create (partendo sempre da main) tre nuove branchie ("uno","due","tre")
-in ogni branchia copiate (cancellando quello che già c'è) in RiccardoIII.txt il contenuto di uno diverso dei file allegati (non quello che avete copiato in main)
-Fondete le tre branchie in main.
-Ogni file ha una frase seguita da [giusta]. Queste quattro frasi dovranno apparire nella versione definitiva (cioè in main).
-
-Risolvete i conflitti in modo che il risultato abbia un senso (cioè senza perdere frasi né avere frasi "doppie" (diverse ma che dicono le stesse cose))
-La consegna è il link alla vostra replit (che ovviamente condividete con paolo.benoli@isitgo.it e sara.scarazzolo@isitgo.it)
-
-riccardoCopioni.txt
-Testo
-
-riccardoGoogle.txt
-Testo
-
-riccardoSource.txt
-Testo
-
-riccardoWilliam.txt
-Testo
-Commenti sul corso
