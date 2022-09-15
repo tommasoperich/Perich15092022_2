@@ -1,3 +1,4 @@
+
 Clamori marziali. Scorrerie. Entrano (Norfolk e soldati, poi dall’altra porta) Catesby.
 
 CATESBY
@@ -24,18 +25,66 @@ Un cavallo un cavallo! il mio regno per un cavallo!
 
 CATESBY
 
+Allarmi. Scorrerie di soldati. Entra NORFOLK con soldati, combattendo.
+
+Gli viene incontro di corsa CATESBY
+
+CATESBY 
+	
+
+Correte, aiuto, signor di Norfolk!
+
+Il re compie prodigi sovrumani
+
+di valore, incurante d’ogni rischio.
+
+Gli hanno ucciso il cavallo,
+
+e lui, a piedi, seguita a combattere;
+
+e nell’ansia di battersi con Richmond
+
+si caccia nelle fauci della morte.
+
+Soccorretelo, nobile signore,
+
+o la giornata per noi è perduta. [giusta]
+
+(Escono Norfolk e soldati)
+
+Entra RE RICCARDO
+
+
 Ritiratevi, monsignore; v’aiuterò io a trovar un cavallo!
 
-RE RICCARDO
+Alarum: escursioni. Entrano in Norfolk e le forze combattono; a lui CATESBY
 
-Vigliacco! Ho puntato la mia vita su una giocata,
+CATESBY
 
-e accetterò il rischio del dado.
+     Salva, mio signore di Norfolk, salva, salva!
+     Il re compie più meraviglie di un uomo,
+     Osare l'opposto di ogni pericolo:
+     Il suo cavallo è ucciso, e tutto a piedi combatte,
+     Alla ricerca di Richmond in gola alla morte.
+     Salva, bel signore, o il giorno è perduto!
 
-Credo che ci siano sei Richmond sul campo:
+     Allarmi. Entra RE RICCARDO III
 
-cinque ne ho uccisi oggi, invece di lui.
+RE RICCARDO III
 
-Un cavallo! Un cavallo! Il mio regno per un cavallo!
+     Un cavallo! un cavallo! il mio regno per un cavallo!
 
-[Escono].
+CATESBY
+
+     Ritirati, mio signore; Ti aiuterò a un cavallo.
+
+RE RICCARDO III
+
+     Schiavo, ho posto la mia vita su un calco,
+     E sopporterò il rischio del dado: [giusta]
+     Penso che ci siano sei Richmond in campo;
+     Oggi ne ho uccisi cinque al posto di lui.
+     Un cavallo! un cavallo! il mio regno per un cavallo!
+
+     Esce
+
